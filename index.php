@@ -1,4 +1,34 @@
 <?php
+/**
+ * ============================================================================
+ * [RU] ВНИМАНИЕ: АРХИВНЫЙ КОД (2012-2015)
+ * ============================================================================
+ * Этот код был написан в 2015 году (с корнями из эпохи до PHP 5) для языковой 
+ * школы SmartApple. На данный момент он НЕВЕРОЯТНО СИЛЬНО УСТАРЕЛ.
+ * 
+ * Данный файл сохранен исключительно в демонстрационных целях для старого 
+ * портфолио. Он содержит большое количество ошибок, небезопасных практик и 
+ * легаси-решений того времени (jQuery полифилы для IE7, PEAR библиотеки для JSON).
+ * Код отражает самый старт моей карьеры как PHP/JS разработчика.
+ * 
+ * Не используйте этот код в продакшене и не оценивайте по нему текущий уровень!
+ * ============================================================================
+ * 
+ * ============================================================================
+ * [EN] WARNING: ARCHIVAL CODE (2012-2015)
+ * ============================================================================
+ * This code was written back in 2015 (with roots stretching to the pre-PHP 5 era) 
+ * for the SmartApple language school. It is now INCREDIBLY OUTDATED.
+ * 
+ * This file is preserved solely for historical/archival purposes for an older 
+ * portfolio. It contains numerous mistakes, insecure practices, and legacy 
+ * workarounds of that era (jQuery polyfills for IE7, PEAR libraries for JSON). 
+ * It represents the absolute beginning of my journey as a PHP/JS developer.
+ * 
+ * Do not use this code in production or use it to judge my current skill level!
+ * ============================================================================
+ */
+
 header('Content-Type: text/html; charset=utf-8');
 
 ?>
