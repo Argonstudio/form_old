@@ -1,7 +1,7 @@
 # SmartApple Language School — Course Selection Form (2015)
 
-[![Ru]](#ru-описание)
-[![En]](#en-description)
+[[Ru]](#ru-описание)
+[[En]](#en-description)
 
 ---
 
