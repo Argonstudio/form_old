@@ -51,7 +51,7 @@ if($_POST['file'])
 		if($_POST['f']){
 		 $form['to']        = $_POST['mail'];
 	       $form['fromname']  = "Smart Apple";
-	       $form['fromemail'] = "2663538@mail.ru";
+	       $form['fromemail'] = "mail@example.com";
 	       $form['subject']   = "Файлы от Smart Apple";
 	       $message1  = "Здравствуйте, ".$_POST['name']." <p></p>Благодарим Вас за интерес к файлам Smapt Apple<p></p>";
                   foreach($_POST['f'] as $num=>$v){
@@ -67,9 +67,9 @@ if($_POST['file'])
 
     	if($info==1)
      		{
-     		   $to        = "2663538@mail.ru";
+     		   $to        = "mail@example.com";
 		       $fromname  = "Smart Apple";
-		       $fromemail = "2663538@mail.ru";
+		       $fromemail = "mail@example.com";
 		       $subject   = "Файлы от Smart Apple";
 		       $message1 = $form['message1'] = "<h1>Запрос файлов</h1>
 		       <p>Имя: <b>".$_POST['name']."</b><br>
