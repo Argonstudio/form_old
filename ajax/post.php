@@ -6,7 +6,6 @@ $json=new Services_JSON();
 
 
 $arr=NULL;
-//$arFile=array("f1"=>"file4.txt","f2"=>"file2.txt","f3"=>"file3.txt");
 $arFile=array("English Vocabulary in Use by Suart Redman (Pre-Intermediate/Intermediate)"=>"English Vocabulary in Use by Suart Redman (Pre-Intermediate/Intermediate): ссылка на файл
 <p></p>
 ","Piazza Navona Часть 1"=>"Piazza Navona Часть 1: ссылка на файл
